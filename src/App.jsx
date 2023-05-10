@@ -39,8 +39,8 @@ function App() {
           grande amor! Obrigado por me amar do jeito que sou, sei que sou
           enjoado e insistente; me desculpe por isso. As vezes sinto vontade de
           te dar meus olhos para se enxergar e ver como eu a vejo, para você
-          pode ter mil defeitos, mas para mim sera, e sempre sera, mil
-          qualidades, já disse e passeria a minha vida interia dizendo que eu
+          pode ser mil defeitos, mas para mim sera, e sempre sera, mil
+          qualidades. Já disse e passarei a minha vida interia dizendo que eu
           amo o jeito como você fala, eu amo o jeito como você anda, eu amo o
           jeito que você com, eu amo o jeito como você ri, eu amo o jeito que
           você me olha, eu amo o jeito que você se veste, eu amo o seu beijo, eu
